@@ -18,7 +18,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
  */
 public class ArtifactsTest extends AbstractJUnitTest {
 
-    public static final int LARGE_FILE_GB = 3;
+    public static final int LARGE_FILE_GB = 1;
     public static final int NO_SMALL_FILES = 200;
 
     @Inject
